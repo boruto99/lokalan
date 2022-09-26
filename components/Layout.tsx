@@ -65,7 +65,7 @@ export const Layout = ({ settings, header, children, isHome, sticky, previewPost
         <footer className="site-footer outer">
           <div className="site-footer-content inner">
             <section className="copyright">
-              <a href={resolve(siteUrl, '')}>{title}</a> &copy; {new Date().getFullYear()}
+              <a href={resolve(siteUrl, '')}>{title}</a> &copy; {new Date().getFullYear()} Powered by Ghost
             </section>
 
             <nav className="site-footer-nav">
