@@ -85,7 +85,7 @@ export const Layout = ({ settings, header, children, isHome, sticky, previewPost
               <a href="https://www.jamify.org" target="_blank" rel="noopener noreferrer">
                 Jamify
               </a>
-            </nav>
+            </nav>Managed by PT. Blockchain Technology Corp 
           </div>
         </footer>
       </div>
